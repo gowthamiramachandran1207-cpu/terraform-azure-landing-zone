@@ -9,7 +9,8 @@ This project creates a basic Azure landing zone with:
 
 ## Files
 
-- `main.tf` — core Azure resources
+- `main.tf` — provider details
+- `.tf files` - core terraform resources
 - `variables.tf` — input variables and defaults
 - `versions.tf` — Terraform and provider version constraints
 - `outputs.tf` — resource outputs
